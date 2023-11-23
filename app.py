@@ -1,5 +1,5 @@
-def sum(x,y):
-    return x+y
+def sum(x,y,a):
+    return x+y+a
 
 def nothing():
     pass 
