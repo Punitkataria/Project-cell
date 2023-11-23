@@ -2,7 +2,7 @@ def sum(x,y):
     return x+y
 
 def nothing():
-    pass
+    pass 
 
-def divide(x,y):
-    return x/y
+def divide():
+    pass
